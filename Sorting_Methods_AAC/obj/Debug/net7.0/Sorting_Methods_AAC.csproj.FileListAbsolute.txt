@@ -1,0 +1,15 @@
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/bin/Debug/net7.0/Sorting_Methods_AAC
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/bin/Debug/net7.0/Sorting_Methods_AAC.deps.json
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/bin/Debug/net7.0/Sorting_Methods_AAC.runtimeconfig.json
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/bin/Debug/net7.0/Sorting_Methods_AAC.dll
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/bin/Debug/net7.0/Sorting_Methods_AAC.pdb
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/obj/Debug/net7.0/Sorting_Methods_AAC.csproj.AssemblyReference.cache
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/obj/Debug/net7.0/Sorting_Methods_AAC.GeneratedMSBuildEditorConfig.editorconfig
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/obj/Debug/net7.0/Sorting_Methods_AAC.AssemblyInfoInputs.cache
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/obj/Debug/net7.0/Sorting_Methods_AAC.AssemblyInfo.cs
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/obj/Debug/net7.0/Sorting_Methods_AAC.csproj.CoreCompileInputs.cache
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/obj/Debug/net7.0/Sorting_Methods_AAC.dll
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/obj/Debug/net7.0/refint/Sorting_Methods_AAC.dll
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/obj/Debug/net7.0/Sorting_Methods_AAC.pdb
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/obj/Debug/net7.0/Sorting_Methods_AAC.genruntimeconfig.cache
+/home/lonewanderer27/Documents/C# Projects/Sorting_Methods_AAC/obj/Debug/net7.0/ref/Sorting_Methods_AAC.dll
